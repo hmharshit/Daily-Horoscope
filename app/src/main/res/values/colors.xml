@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4FC3F7</color>
+    <color name="colorPrimaryDark">#03a9f4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cardBackground">#f9fafa</color>
+    <color name="listBackground">#dddddd</color>
+    <color name="actionBar">#1976d2</color>
+    <color name="actionBarText">#ffffff</color>
+    <color name="fabButton">#00695c</color>
+    <color name="titleText">#000000</color>
+    <color name="subtitleText">#000000</color>
+    <color name="desctext">#000000</color>
+</resources>
